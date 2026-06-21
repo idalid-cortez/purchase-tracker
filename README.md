@@ -3,7 +3,7 @@ High-performance C++ purchase tracker leveraging the STL std::map for efficient 
 
 # Purchase Tracking System
 
-[![Click to watch the project walkthrough](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=BAAXRKKScPQ))
+[![Click to watch the project walkthrough]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=BAAXRKKScPQ))
 
 *A robust backend solution designed in C++ using Object-Oriented principles.*
 
