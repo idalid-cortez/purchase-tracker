@@ -30,5 +30,10 @@ classDiagram
     }
 ```
 
-    std_runtime_error <|-- GroceryException : inheritance
-    PurchaseTracker o-- Product : composition
+ ## How to Run
+
+1. Clone this repository: `git clone https://github.com/your-username/purchase-tracker.git`
+
+2. Compile using G++: `g++ -o stock_sync main.cpp grocery_tracker.cpp product.cpp`
+
+3. Run the executable: `./stock_sync`
